@@ -1,44 +1,29 @@
-# Welcome to Darcy's Barbershop
+# Darcy's Barbershop
 
-![DARCY Barbershop](/images/darcy.png)
+![Darcy's Barbershop](./images/darcy.png)
 
-Welcome to **Darcy’s Barbershop**, where every cut is a craft. Nestled in the heart of Greater Boston at **430 Massachusetts Ave**, our shop blends a love for sports, style, and sharp conversation — all while delivering top-tier grooming.
+Welcome to **Darcy's Barbershop** — where classic cuts meet community, and every chair tells a story.
 
-We pride ourselves on **precision cuts**, clean fades, and meticulous beard work. Whether you’re coming in for a classic style or a fresh, modern look, we tailor every cut to match your vibe.
+## ✂️ Meet the Barbers
 
----
+- **Bernard** — Master Barber, lifelong Liverpool supporter  
+  📞 617-438-4969
 
-## 💈 Meet the Team
+- **Gamal** — Skilled Stylist & versatile Barber, fan of the game  
+  📞 351-201-0755
 
-![Bernard - Owner](/images/bernard.png)  
-**Bernard** is the Owner, Master Barber & Stylist. Known for his precision, technique, and unmatched eye for detail, Bernard brings a wealth of experience and a reputation for turning every haircut into a signature.
+- **Jason** — Master Barber & Stylist, loyal Red Sox fan  
+  📞 617-602-8544
 
-![Jason - Barber & Stylist](/images/jason.png)  
-**Jason** brings energy, style, and finesse to every session. Whether it’s a clean fade or a custom style, he delivers with confidence and care.
+## 🏆 The Vibe
 
-![Gamal - Barber & Stylist](/images/gamal.png)  
-**Gamal** is all about precision and presentation. With a sharp touch and passion for style, he’ll make sure you leave looking your best.
+This is more than a barbershop — it’s where **sports, stories, and style collide**. With the latest game on, sharp fades in progress, and great conversation always flowing, you’re guaranteed to leave feeling fresh and energized.
 
----
+> “It’s not just a cut. It’s a tradition.”
 
-## ✂️ Services We Offer
+## 📅 Book Today
 
-- Precision Fades & Lineups  
-- Beard Trims & Shaping  
-- Classic Cuts & Modern Styles  
-- Kids, Teens & Adults Welcome  
-- Hair Styling & Product Advice
+Walk-ins always welcome.  
+Appointments recommended for game day rush.
 
----
-
-## 📅 Book Your Appointment
-
-Walk-ins are welcome, but appointments guarantee you the chair.
-
-📞 (857) 277-1175  
-🏠 430 Massachusetts Ave, Boston, MA ,02118 
-🕒 Open Monday – Saturday: 9 AM – 7 PM
-
----
-
-> “Style is temporary. Precision is timeless.” – Bernard
+Come through. Let’s talk sports. Let’s talk style.
