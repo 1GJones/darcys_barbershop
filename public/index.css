@@ -99,6 +99,18 @@ body {
     border: 3px solid #3c3c42;
     box-shadow: 3px 3px 6px #000;
   }
+  .barber-img {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin: 1rem auto;
+  }
+  .quote-highlight {
+    color: #e63946; /* deep red */
+    font-weight: bold;
+    font-style: italic;
+  }
   
   /* For WebKit-based browsers */
 ::-webkit-scrollbar {
